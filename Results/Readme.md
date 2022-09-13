@@ -1,9 +1,9 @@
 ## Results
-* [Combined Result]()
-* [Results]()
-* [Sketch Style]()
-* [Mosaic Style]()
-* [Starry Night]()
+* [Combined Result](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/Results/Readme.md#combined-result)
+* [Results](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/Results/Readme.md#results-1)
+* [Sketch Style](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/Results/Readme.md#sketch-style)
+* [Mosaic Style](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/Results/Readme.md#mosaic-style)
+* [Starry Night](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/Results/Readme.md#starry-night-style)
 
 ### Combined Result
 ![Combined Result](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/Results/ResultAllStyles.png?raw=true)
