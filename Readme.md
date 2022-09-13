@@ -5,7 +5,7 @@ An art style transfer model based on generative adversarial network, that is tra
 * Another method could be training a model for a particular `Style` and then later using it.
 * Time required to train the model is lot more in second case but the transfered image generation time is significantly less.
 
-### Basic Flow Diagram
+### Basic Flow Diagram for Second Method
 ![FlowChart](https://github.com/shivanshu1641/Neural-Art-Style-Transfer/blob/main/FlowChart.PNG?raw=true)
 
 #### Language
